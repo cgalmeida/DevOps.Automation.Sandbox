@@ -1,9 +1,9 @@
 # DevOps.Automation.Sandbox
 <p align="center">
- <img width ='50px' src='./doc/fastapi-1.svg'>
- <img width ='50px' src='./doc/nginx-icon.png'>
- <img width ='50px'src='./doc/postgres.png'>
- <img width ='46px'src='./doc/rabbitmq.png'>
+ <img width ='50px' src='./doc/assets/terraform.png'>
+ <img width ='50px' src='./doc/assets/apache_kafka.png'>
+ <img width ='50px'src='./doc/assets/docker.png'>
+ <img width ='46px'src='./doc/assets/airflow-icon-1024x1024-d7aic6od.png'>
 </p>
 
 <!--ts-->
