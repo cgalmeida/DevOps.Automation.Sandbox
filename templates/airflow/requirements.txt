@@ -1,0 +1,8 @@
+azure-storage-blob
+pytz
+fake
+requests
+pandas
+pyspark
+kafka-python
+ksql
